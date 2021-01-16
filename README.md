@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on pingcap
-- 🌱 I’m currently learning tidb
-- 📫 How to reach me: biugesmutmc@outlook.com
-
 <!--
 **7yyo/7yyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
