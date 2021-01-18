@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: biugesmutmc@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![forthebadge](https://img.shields.io/badge/%20-JavaScript-green)
+![forthebadge](https://img.shields.io/badge/%20-Go-blue)
+![forthebadge](https://img.shields.io/badge/%20-Python-blueviolet)   
+![forthebadge](https://img.shields.io/badge/%20-MySQL-success)  
 -->
-![forthebadge](https://img.shields.io/badge/%20-Java-orange)  ![forthebadge](https://img.shields.io/badge/%20-JavaScript-green)   ![forthebadge](https://img.shields.io/badge/%20-Ruby-red)   ![forthebadge](https://img.shields.io/badge/%20-Go-blue)   ![forthebadge](https://img.shields.io/badge/%20-Python-blueviolet)   ![forthebadge](https://img.shields.io/badge/%20-MySQL-success)  
+![forthebadge](https://img.shields.io/badge/%20-Java-orange) ![forthebadge](https://img.shields.io/badge/%20-Ruby-red)
 
